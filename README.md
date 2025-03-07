@@ -2,7 +2,7 @@
 
 Bu proje, iki nokta arasındaki Öklid mesafesini hesaplayan bir Python programıdır.
 
-## 📌 Kullanım
+## Kullanım
 Python yüklü olduğu sürece şu komutla çalıştırabilirsiniz:
 ```sh
 python euclidean_distance.py
